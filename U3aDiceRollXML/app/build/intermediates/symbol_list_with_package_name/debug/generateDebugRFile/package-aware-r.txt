@@ -1,0 +1,18 @@
+com.example.u3adicerollxml
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnRoll
+id llMain
+id tvDice
+id tvInfo
+id tvTitle
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_U3aDiceRollXML
+style Theme_U3aDiceRollXML
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.iml" filepath="$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/U3DiceRollCompose.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.main.iml" filepath="$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/U3DiceRollCompose.unitTest.iml" />
+    </modules>
+  </component>
+</project>
