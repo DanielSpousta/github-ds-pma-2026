@@ -149,7 +149,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="My_Application.app.main" />
+      <module name="My_Application.app.unitTest" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
