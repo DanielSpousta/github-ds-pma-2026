@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Objednávka kola</string>
+    <string name="order_title">Objednávka kola</string>
+    <string name="bike_image_description">Vybrané kolo</string>
+    <string name="choose_bike">Vyberte model kola:</string>
+    <string name="bike_m10">Oiz M10 TR</string>
+    <string name="bike_m20">Oiz M20 TR</string>
+    <string name="bike_m30">Oiz M30 TR</string>
+    <string name="upgrades">Vylepšení:</string>
+    <string name="better_fork">Lepší vidlice</string>
+    <string name="better_saddle">Lepší sedlo</string>
+    <string name="better_handlebar">Lepší řídítka</string>
+    <string name="price_estimate">Orientační celková cena: %1$s</string>
+    <string name="order_button">Objednat</string>
+    <string name="order_summary_placeholder">Souhrn objednávky se zobrazí zde.</string>
+    <string name="order_summary">Souhrn objednávky: %1$s — celkem %2$s</string>
+    <string name="order_summary_with_upgrades">Souhrn objednávky: %1$s; %2$s — celkem %3$s</string>
+    <string name="order_confirmation">Objednávka kola %1$s za %2$s byla úspěšně odeslána!</string>
+</resources>

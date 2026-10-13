@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fahrradbestellung</string>
+    <string name="order_title">Fahrradbestellung</string>
+    <string name="bike_image_description">Ausgewähltes Fahrrad</string>
+    <string name="choose_bike">Fahrradmodell auswählen:</string>
+    <string name="bike_m10">Oiz M10 TR</string>
+    <string name="bike_m20">Oiz M20 TR</string>
+    <string name="bike_m30">Oiz M30 TR</string>
+    <string name="upgrades">Ausstattung:</string>
+    <string name="better_fork">Bessere Federgabel</string>
+    <string name="better_saddle">Besserer Sattel</string>
+    <string name="better_handlebar">Besserer Lenker</string>
+    <string name="price_estimate">Geschätzter Gesamtpreis: %1$s</string>
+    <string name="order_button">Bestellen</string>
+    <string name="order_summary_placeholder">Die Bestellübersicht wird hier angezeigt.</string>
+    <string name="order_summary">Bestellübersicht: %1$s — Gesamtpreis %2$s</string>
+    <string name="order_summary_with_upgrades">Bestellübersicht: %1$s; %2$s — Gesamtpreis %3$s</string>
+    <string name="order_confirmation">Die Bestellung für das Fahrrad %1$s zum Preis von %2$s wurde erfolgreich übermittelt!</string>
+</resources>

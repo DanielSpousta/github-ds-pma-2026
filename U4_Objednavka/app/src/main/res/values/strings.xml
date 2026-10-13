@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bike Order</string>
+    <string name="order_title">Bike order</string>
+    <string name="bike_image_description">Selected bike</string>
+    <string name="choose_bike">Choose a bike model:</string>
+    <string name="bike_m10">Oiz M10 TR</string>
+    <string name="bike_m20">Oiz M20 TR</string>
+    <string name="bike_m30">Oiz M30 TR</string>
+    <string name="upgrades">Upgrades:</string>
+    <string name="better_fork">Better fork</string>
+    <string name="better_saddle">Better saddle</string>
+    <string name="better_handlebar">Better handlebar</string>
+    <string name="price_estimate">Estimated total: %1$s</string>
+    <string name="order_button">Place order</string>
+    <string name="order_summary_placeholder">Your order summary will appear here.</string>
+    <string name="order_summary">Order summary: %1$s — total %2$s</string>
+    <string name="order_summary_with_upgrades">Order summary: %1$s; %2$s — total %3$s</string>
+    <string name="order_confirmation">Your order for the %1$s bike (%2$s) was submitted successfully!</string>
+</resources>
